@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Orange HRM - CRUD Employee Data","User add Orange HRM employee successfully","SUCCESS","2022-04-16T07:48:23.796+07:00[Asia/Jakarta]","0.0","23.87"
+"Orange HRM - CRUD Employee Data","User read Orange HRM employee list successfully","SUCCESS","2022-04-16T07:48:47.862+07:00[Asia/Jakarta]","0.0","17.97"
+"Orange HRM - CRUD Employee Data","User update Orange HRM employee successfully","SUCCESS","2022-04-16T07:49:06.055+07:00[Asia/Jakarta]","0.0","22.81"
+"Orange HRM - CRUD Employee Data","User delete Orange HRM employee successfully","SUCCESS","2022-04-16T07:49:29.049+07:00[Asia/Jakarta]","0.0","22.19"
+"Orange HRM - Login","User login Orange HRM successfully","SUCCESS","2022-04-16T07:49:51.465+07:00[Asia/Jakarta]","0.0","18.88"
